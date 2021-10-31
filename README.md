@@ -1,7 +1,7 @@
 # 🐶 Initial page
 
-Our design system is written in React, and can be installed into your project via NPM or Yarn
-
+This is a test page
+  
 ## Welcome !
 
 {% hint style="info" %}
