@@ -1,10 +1,6 @@
----
-description: >-
-  Our design system is written in React, and can be installed into your project
-  via NPM or Yarn
----
+# 🐶 Initial page
 
-# Initial page
+Our design system is written in React, and can be installed into your project via NPM or Yarn
 
 ## Welcome !
 
