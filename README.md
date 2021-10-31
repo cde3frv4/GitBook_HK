@@ -1,5 +1,7 @@
 ---
-description: 첫화면입니다.
+description: >-
+  Our design system is written in React, and can be installed into your project
+  via NPM or Yarn
 ---
 
 # Initial page
