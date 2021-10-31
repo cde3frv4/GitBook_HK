@@ -1,4 +1,8 @@
-# Getting started
+---
+description: 첫화면입니다.
+---
+
+# Initial page
 
 ## Welcome !
 
